@@ -19,10 +19,10 @@
 <!-- PROJECT LOGO -->
 <br />
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Best-Demo-App</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An awesome Demo App!
     <br />
     <a href="https://github.com/Dei11/DemoRepo"><strong>Explore the docs »</strong></a>
     <br />
@@ -55,20 +55,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi euismod egestas nulla, nec gravida leo tincidunt sit amet. Sed dui nisi, elementum in laoreet eu, convallis vitae tellus. Nullam vulputate, odio sed feugiat sagittis, arcu sapien finibus erat, eu porttitor mauris libero eget turpis. Maecenas est est, fermentum nec volutpat nec, mollis eget velit. Nullam imperdiet lobortis efficitur. Nulla ultricies libero in imperdiet ornare. Maecenas cursus, justo sed condimentum tincidunt, mauris est vestibulum magna, quis scelerisque libero justo in elit. Maecenas ac molestie massa. Proin imperdiet felis felis, eu faucibus erat molestie vitae. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Quisque nec congue lorem. Sed feugiat sapien odio, et maximus nibh ullamcorper sed. Vivamus nec massa ac felis sagittis bibendum. Etiam convallis ligula sed lectus iaculis mollis.
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi euismod egestas nulla, nec gravida leo tincidunt sit amet.
 * [HTML](https://explore.com)
 * [CSS](https://explore.com)
 * [JS](https://explore.com)
