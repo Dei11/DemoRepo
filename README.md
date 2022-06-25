@@ -1,6 +1,4 @@
 
-
-<!-- PROJECT LOGO -->
 <br />
 
   <h3 align="center">Best-Demo-App</h3>
